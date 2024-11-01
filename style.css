@@ -1,0 +1,48 @@
+body .wpcf7 {
+	background-color: #999999;
+	padding: 2px 20px 1px 20px;
+	margin-top: 20px;
+	color: #fff;
+}
+
+body .wpcf7 p {
+	margin-top: 5px;
+	color: #fff;
+}
+
+.wpcf7 input::-webkit-input-placeholder, .wpcf7 textarea::-webkit-input-placeholder {
+      color: #fff;
+   }
+
+.wpcf7 input:-moz-placeholder, .wpcf7 textarea:-moz-placeholder {
+      color: #fff;
+      opacity: 1;  /* FF sets opacity to 0.54 by default */
+   }
+
+.wpcf7 input::-moz-placeholder, .wpcf7 textarea::-moz-placeholder {
+      color: #fff;
+      opacity: 1;  /* FF sets opacity to 0.54 by default */
+   }
+   
+body form.wpcf7-form .wpcf7-textarea {
+	padding: 10px;
+}
+
+.wpcf7 input:-ms-input-placeholder, .wpcf7 textarea:-ms-input-placeholder {
+      color: #fff;
+   }
+
+body .wpcf7  form.wpcf7-form .wpcf7-text{ 
+	background-color: #a2a2a2;
+	height: 25px;
+	padding: 0 10px;
+	width: 93%;
+	color: #fff;
+}
+
+body form.wpcf7-form .wpcf7-submit {
+	width: 101%;
+	height: 20px;
+	background-color: #c08366;
+	padding: 0;
+}
